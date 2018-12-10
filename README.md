@@ -1,2 +1,2 @@
 # PyTorch-Demos
-GANs, RNNs, dilated CNNs, simple word models... and much more!
+GANs, RNNs, dilated CNNs, custom backpropagation ... and more!
